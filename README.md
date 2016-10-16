@@ -1,2 +1,4 @@
 # hello_world
-First attempt
+First attempt...
+
+in following instructions... not so good
